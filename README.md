@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Screenshot%202023-04-11%20at%2013-47-54%20Frontend%20Mentor%20Single%20Price%20Grid%20Component.pngscreenshot.jpg)
 
 
 
