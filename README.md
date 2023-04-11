@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://boisterous-melomakarona-5c0839.netlify.app/)
+- Live Site URL: [Go to live site](https://boisterous-melomakarona-5c0839.netlify.app/)
 
 ## My process
 
