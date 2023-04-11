@@ -60,6 +60,11 @@ button{
     border: none;
    
 }
+button:hover{
+    cursor: pointer;
+    background-color: hsla(71, 84%, 52%, 0.5);
+    color:whitesmoke
+}
 
 
 .article-2 {
