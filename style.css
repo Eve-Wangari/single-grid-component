@@ -1,0 +1,95 @@
+*{
+   
+       margin:0px;
+       padding:0px;
+       font-family: 'Karla', sans-serif;
+}
+body{
+    font-size: 16px;
+    background-color: hsl(204, 43%, 93%);
+    
+}
+.section-1{
+    background-color: white;
+    padding:1rem;
+    line-height: 1.7rem;
+}
+.card{
+    width:80%;
+    margin:3rem auto;
+}
+.section-1 h1{
+    color:hsl(179, 62%, 43%);
+    margin: 0.5rem;
+
+}
+.section-1 h2{
+    color: hsl(71, 73%, 54%);
+    font-size: 1rem;
+    margin:0.2rem;
+}
+.section-1 p{
+    color: hsl(218, 22%, 67%);
+    margin:1rem auto;
+}
+.article-1{
+  color:white;
+  background-color:  hsl(179, 62%, 43%);
+  padding:2rem;
+  
+}
+.article-1 span{
+    font-size:2em;
+
+}
+.article-1 p{
+    margin-bottom: 1rem;
+}
+
+.article-1 a{
+   
+    text-decoration: none;
+    color:white;
+    
+}
+button{
+    padding: 1rem 2rem;
+    width:90%;
+    background-color: hsl(71, 73%, 54%);
+    outline: none;
+    border: none;
+   
+}
+
+
+.article-2 {
+    color:white;
+    padding:2rem;
+    text-align: left;
+    line-height: 1.7em;
+    background-color:  hsla(179, 62%, 43%,0.5);
+}
+
+@media (min-width:700px){
+    body{
+        display: grid;
+        place-items: center;
+        line-height: 2rem;
+        height: 100vh;
+
+    }
+.card{
+    width:60%;
+    box-shadow: 6px 6px 6px 2px rgba(0,0,0,0.2);
+}
+    .section-2{
+        display: flex;
+
+    }
+    .section-2 .article-1{
+        width:80%;
+    }
+    .section-2 .article-2{
+        width:70%;
+    }
+}
